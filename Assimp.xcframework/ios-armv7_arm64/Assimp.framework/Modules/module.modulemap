@@ -1,0 +1,6 @@
+framework module Assimp {
+  umbrella header "Assimp-umbrella.h"
+
+  export *
+  module * { export * }
+}
