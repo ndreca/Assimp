@@ -6,12 +6,12 @@ This approach is experimental and has some issues with code signing.
 
 https://github.com/assimp/assimp
 
-###CocoaPods
+### CocoaPods
 ```
   pod 'Assimp',  :git => 'https://github.com/ndreca/Assimp.git'
 ```
 
-###SwiftPackage
+### SwiftPackage
 ```
   .package(name: "Assimp", url: "https://github.com/ndreca/Assimp.git", from: "5.0.1"),
 ```
