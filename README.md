@@ -1,3 +1,3 @@
 # Assimp
 
-A description of this package.
+  pod 'Assimp',  :git => 'https://github.com/ndreca/Assimp.git'
