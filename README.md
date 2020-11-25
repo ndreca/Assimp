@@ -13,5 +13,5 @@ https://github.com/assimp/assimp
 
 ### SwiftPackage
 ```
-  .package(name: "Assimp", url: "https://github.com/ndreca/Assimp.git", from: "5.0.1"),
+  .package(name: "Assimp", url: "https://github.com/ndreca/Assimp.git", from: "5.0.2"),
 ```
