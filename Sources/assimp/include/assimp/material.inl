@@ -46,6 +46,9 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
 #pragma once
+
+#ifdef __cplusplus
+
 #ifndef AI_MATERIAL_INL_INC
 #define AI_MATERIAL_INL_INC
 
@@ -388,3 +391,5 @@ inline aiReturn aiMaterial::AddProperty<int>(const int* pInput,
 //! @endcond
 
 #endif //! AI_MATERIAL_INL_INC
+
+#endif // __cplusplus
